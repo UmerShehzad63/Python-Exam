@@ -1,0 +1,4 @@
+shirt;Nike;5;250
+jacket;Adidas;2;120
+shoes;Puma;4;200
+hat;adidas;5;20
